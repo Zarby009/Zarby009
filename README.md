@@ -26,6 +26,7 @@ Estou sempre aberto a novos desafios, colaborações e troca de ideias. Bora con
 **Back-end**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Encore](https://img.shields.io/badge/Encore-3d3d3d?style=flat&logo=data:image/png;base64,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&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Mobile Nativo**  
@@ -34,6 +35,11 @@ Estou sempre aberto a novos desafios, colaborações e troca de ideias. Bora con
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![MVVM](https://img.shields.io/badge/Architecture-MVVM-brightgreen)
 ![Hilt](https://img.shields.io/badge/Hilt-FF5722?style=flat&logo=dagger&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat&logo=square&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-3A434B?style=flat&logo=square&logoColor=white)
+![DataStore](https://img.shields.io/badge/DataStore-FF6F00?style=flat&logo=android&logoColor=white)
+![Navigation Compose](https://img.shields.io/badge/Navigation_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
 **Mobile Multiplataforma**  
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
@@ -42,6 +48,7 @@ Estou sempre aberto a novos desafios, colaborações e troca de ideias. Bora con
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
